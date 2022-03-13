@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Acquapoint</string>
+    <string name="title_activity_upload_food">UploadFoodActivity</string>
+    <string name="google_sign_up">Continue With Google</string>
+    <string name="title_activity_collect_food">CollectFoodActivity</string>
+
+</resources>
